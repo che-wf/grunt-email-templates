@@ -1,0 +1,12 @@
+# Ignore these
+*~
+.DS_Store
+node_modules/
+src/css/*.css
+src/scss/*.scss
+src/templates/*.html
+www/*.html
+
+# Keep these
+!src/templates/example.html
+!src/scss/example.scss
