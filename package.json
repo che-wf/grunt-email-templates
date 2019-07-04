@@ -20,6 +20,12 @@
     "load-grunt-tasks": "^3.5.2",
     "pixrem": "^3.0.2",
     "postcss-cssnext": "^2.8.0",
-    "postcss-scss": "^0.3.0"
-  }
+    "postcss-scss": "^0.3.0",
+    "snyk": "^1.189.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
