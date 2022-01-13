@@ -6,8 +6,8 @@
     "grunt": "~1.0.3"
   },
   "dependencies": {
-    "autoprefixer": "^6.4.1",
-    "cssnano": "^3.7.5",
+    "autoprefixer": "^9.0.0",
+    "cssnano": "^4.1.1",
     "grunt": "^1.0.3",
     "grunt-autoprefixer": "^3.0.4",
     "grunt-contrib-watch": "^1.0.0",
@@ -15,12 +15,12 @@
     "grunt-inline-css": "^1.0.0",
     "grunt-pixrem": "^0.1.2",
     "grunt-postcss": "^0.8.0",
-    "grunt-sass": "^1.2.1",
+    "grunt-sass": "^3.0.0",
     "inline-css": "^2.2.2",
     "load-grunt-tasks": "^3.5.2",
-    "pixrem": "^3.0.2",
-    "postcss-cssnext": "^2.8.0",
-    "postcss-scss": "^0.3.0",
+    "pixrem": "^5.0.0",
+    "postcss-cssnext": "^3.0.0",
+    "postcss-scss": "^2.0.0",
     "snyk": "^1.189.0"
   },
   "scripts": {
