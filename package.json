@@ -16,7 +16,7 @@
     "grunt-pixrem": "^0.1.2",
     "grunt-postcss": "^0.8.0",
     "grunt-sass": "^1.2.1",
-    "inline-css": "^2.2.2",
+    "inline-css": "^3.0.0",
     "load-grunt-tasks": "^3.5.2",
     "pixrem": "^3.0.2",
     "postcss-cssnext": "^2.8.0",
